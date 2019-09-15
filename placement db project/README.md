@@ -7,15 +7,13 @@
   1. HTML5
   2. CSS3
   3. JavaScript
-  4. PHP (Baxckend Database Functions)
+  4. PHP (Backend Database Functions)
   5. MySQL (Database)
 
 ## IDE & Tools
-  1. Visual Studio 2013 (PHP Tools Installed)
-  2. Visual Studio Code (All Files Editing)
-  3. XAMPP (Apache Server and MySQL)
+  1. XAMPP (Apache Server and MySQL)
   
-* Visual Studio is Used Just to Edit the Code and To Test the PHP files We need to Use Apache Server and The Source Code Local Repo Must be in the XAMPP>htdocs>www folder
+*To Test the PHP files We need to Use Apache Server and The Source Code Local Repo Must be in the XAMPP>htdocs>www folder
 
 ## It Contains 4 Portals and 2 Homepages:
 ### Portals/Profilers
